@@ -61,4 +61,5 @@ mybatis-plus:
 
 #图片资源保存地址
 reggie:
-  path: E:\Java\sjiang-project\sjiang_take_out\src\main\resources\backend\upload\
+#  path: E:\Java\sjiang-project\sjiang_take_out\src\main\resources\backend\upload\
+  path: /opt/img/
